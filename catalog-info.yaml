@@ -1,9 +1,9 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: E-Commerce-MS-Template-2-Complex
+  name: E-Commerce-MS-MVC-Backstage-Template
   annotations:
-    github.com/project-slug: NC9596/E-Commerce-MS-Template-2-Complex
+    github.com/project-slug: NC9596/E-Commerce-MS-MVC-Backstage-Template-Repo
 spec:
   type: service
   lifecycle: experimental
@@ -13,3 +13,5 @@ spec:
     - ProductManagement
     - OrderManagement
     - PaymentManagement
+    - DeliveryManagement
+    - E-Commerce-MVC

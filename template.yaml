@@ -1,13 +1,14 @@
 apiVersion: scaffolder.backstage.io/v1beta3
 kind: Template
 metadata:
-  name: E-Commerce-MS-Template-2-Complex
-  title: E-Commerce-MS-2-Complex
+  name: E-Commerce-MS-MVC-Backstage-Template
+  title: E-Commerce-MS-MVC-Backstage-Template
   description: Create an E-Commerce Microservice Project
   tags:
     - java
     - microservice
     - springboot
+    - mvc
 spec:
   owner: Nandish
   type: service
