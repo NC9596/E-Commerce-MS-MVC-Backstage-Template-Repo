@@ -67,7 +67,7 @@ metadata:
   name: E-Commerce-MVC
   description: ${{ values.description }}
   links:
-    - url: http://localhost:9901/swagger-ui.html
+    - url: http://localhost:4041/
       title: E-Commerce-MVC Website
       icon: dashboard
 spec:
