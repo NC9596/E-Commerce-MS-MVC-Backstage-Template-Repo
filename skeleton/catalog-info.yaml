@@ -67,7 +67,7 @@ metadata:
   name: E-Commerce-MVC
   description: ${{ values.description }}
   links:
-    - url: http://localhost:4041/#
+    - url: http://localhost:4041/mvcec/shop
       title: E-Commerce-MVC Website
       icon: dashboard
 spec:
